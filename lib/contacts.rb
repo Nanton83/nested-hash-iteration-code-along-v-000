@@ -20,4 +20,4 @@ contacts.each do |key, value|
 end
 end 
 
-remove_strawberry(contacts)
+remove_strawberry
